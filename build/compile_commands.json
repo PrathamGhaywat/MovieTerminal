@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/MovieTerminal/build",
+  "command": "/usr/bin/g++   -isystem /usr/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/MovieTerminal.dir/src/main.cpp.o -c /workspaces/MovieTerminal/src/main.cpp",
+  "file": "/workspaces/MovieTerminal/src/main.cpp"
+}
+]

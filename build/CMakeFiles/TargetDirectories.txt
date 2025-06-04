@@ -1,0 +1,3 @@
+/workspaces/MovieTerminal/build/CMakeFiles/rebuild_cache.dir
+/workspaces/MovieTerminal/build/CMakeFiles/edit_cache.dir
+/workspaces/MovieTerminal/build/CMakeFiles/MovieTerminal.dir
